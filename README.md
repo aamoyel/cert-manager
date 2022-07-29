@@ -58,7 +58,7 @@ You need to have :
 
 1. Clone the repo :
    ```sh
-   git clone git@github.com:aamoyel/cert-manager.git && cd cert-manager
+   git clone https://github.com/aamoyel/cert-manager.git && cd cert-manager
    ```
 2. Change email in letsencrypt-clusterissuer.yml
 3. Deploy the project on your cluster
