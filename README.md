@@ -27,7 +27,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 This project allows you to deploy the [cert-manager](https://cert-manager.io/) on Kubernetes with Kustomize binary.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -45,8 +44,6 @@ This project allows you to deploy the [cert-manager](https://cert-manager.io/) o
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up this project on your kubernetes cluster.
-
 ### Prerequisites
 
 You need to have :
@@ -55,7 +52,6 @@ You need to have :
 * An ingress controller to use cert-manager in ingress resources (optional)
 
 ### Installation
-
 1. Clone the repo :
    ```sh
    git clone https://github.com/aamoyel/cert-manager.git && cd cert-manager
